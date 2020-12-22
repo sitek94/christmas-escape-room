@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.js": "/christmas-escape-room/static/js/main.56afbb8f.chunk.js",
+    "main.js.map": "/christmas-escape-room/static/js/main.56afbb8f.chunk.js.map",
+    "runtime-main.js": "/christmas-escape-room/static/js/runtime-main.3d9e72c1.js",
+    "runtime-main.js.map": "/christmas-escape-room/static/js/runtime-main.3d9e72c1.js.map",
+    "static/js/2.ee5397ff.chunk.js": "/christmas-escape-room/static/js/2.ee5397ff.chunk.js",
+    "static/js/2.ee5397ff.chunk.js.map": "/christmas-escape-room/static/js/2.ee5397ff.chunk.js.map",
+    "index.html": "/christmas-escape-room/index.html",
+    "static/js/2.ee5397ff.chunk.js.LICENSE.txt": "/christmas-escape-room/static/js/2.ee5397ff.chunk.js.LICENSE.txt",
+    "static/media/cat.6ddc92d1.jpg": "/christmas-escape-room/static/media/cat.6ddc92d1.jpg",
+    "static/media/gollum.938fdb39.jpg": "/christmas-escape-room/static/media/gollum.938fdb39.jpg",
+    "static/media/gorilla.02dd6b71.jpg": "/christmas-escape-room/static/media/gorilla.02dd6b71.jpg",
+    "static/media/hair-rollers.bf055973.jpg": "/christmas-escape-room/static/media/hair-rollers.bf055973.jpg",
+    "static/media/messi.c60dde8e.jpg": "/christmas-escape-room/static/media/messi.c60dde8e.jpg",
+    "static/media/mona-lisa.8a2f3f22.jpg": "/christmas-escape-room/static/media/mona-lisa.8a2f3f22.jpg",
+    "static/media/playboy.6bfe2b74.jpg": "/christmas-escape-room/static/media/playboy.6bfe2b74.jpg",
+    "static/media/sherlock.105e7253.jpg": "/christmas-escape-room/static/media/sherlock.105e7253.jpg",
+    "static/media/toilet.1bb74d6c.jpg": "/christmas-escape-room/static/media/toilet.1bb74d6c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d9e72c1.js",
+    "static/js/2.ee5397ff.chunk.js",
+    "static/js/main.56afbb8f.chunk.js"
+  ]
+}
